@@ -1,0 +1,183 @@
+body{
+    background-image: url(background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgb(234,211,194);
+    font-family: 'Permanent Marker', cursive;
+}
+i{
+    font-size: 30px;
+    color: white;
+    color: rgb(80, 85, 79);
+}
+.week-row .col{
+    width: 170px;
+    overflow: hidden;
+}
+.week-row .col:hover{
+    background-color: white;
+}
+.calendar .arrow{
+    width: 40px;
+    height: 40px;
+    border-radius: 55px;
+    border: none;
+    background-color:rgba(54, 54, 54, 0);
+}
+.arrow:hover{
+    background-color: rgb(155,162,155);
+}
+.today{
+    background-color: rgba(0, 0, 0, 0);
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 43px;
+    font-size: 20px;
+    color: rgb(80, 85, 79);
+    width: 85px;
+    border-radius: 12px;
+}
+.today:hover{
+    background-color: rgb(155,162,155);
+    color: white;
+}
+button:hover i{
+    color: white;
+}
+.calendar{
+    margin: 30px 0;
+}
+.container{
+    max-width: 1200px;
+    border: 10px solid rgba(114,152,140, 0.5);
+    border: 10px solid rgba(80, 85, 79, 0.5);
+    background-color: rgb(197, 174, 171);
+    background-size: cover;
+}
+.month{
+    margin-left: 20px;
+    font-size: 65px;
+    font-weight: 600;
+    color: white;
+    color: rgb(80, 85, 79);
+}
+.year{
+    font-size: 35px;
+    font-weight: 600;
+    color: white;
+    color: rgb(80, 85, 79);
+}
+.day-of-week{
+    color: white;
+    font-size: 18px;
+    margin-top: 10px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: rgba(80, 85, 79, 0.7);
+}
+::-webkit-scrollbar {
+    width: 0;  /* Remove scrollbar space */
+    background: transparent;  /* Optional: just make scrollbar invisible */
+}
+.week-row .col{
+    border-left: 1px solid rgb(138,128,124);
+    background-color: rgba(255, 255, 255, .7);
+    height: 100px;
+    border-bottom: 1px solid rgb(138,128,124);
+    cursor: pointer;
+    margin: 2px;
+    overflow-y: scroll;
+    position:relative;
+}
+.week-row .col:first-of-type{
+    border-left: none;
+}
+.row:last-of-type .col{
+    border-bottom: none;
+}
+.modal{
+    font-family: 'Roboto', sans-serif;
+}
+.gen-day{
+    position: sticky;
+    top: 0;
+    justify-content: center;
+    align-items: center;
+}
+.today-hl{
+    background-color: rgb(231, 219, 150);
+    width: 80px;
+    margin: auto;
+    border-radius: 20px;
+}
+.itin{
+    white-space: nowrap;
+    background-color: rgb(172,205,170);
+    border-radius: 25px;
+    text-align: left;
+    padding: 3px 5px;
+    margin: 5px 5px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    color: rgb(80, 80, 80);
+    
+}
+.itin:hover{
+    background-color: rgb(234,211,194);
+    font-weight: 600;
+}
+.modal-title{
+    font-weight: 600;
+    font-size: 23px;
+}
+.color{
+    height: 35px;
+    width: 35px;
+    color: rgba(121, 13, 13, 0);
+}
+.color:hover{
+    cursor: pointer;
+}
+.matcha1{
+    background-color: rgb(172,205,170);
+}
+.matcha2{
+    background-color: rgb(185,224,185);
+}
+.matcha3{
+    background-color: rgb(115,147,141);
+}
+.lilac1{
+    background-color: rgb(164,149,212);
+}
+.lilac2{
+    background-color: rgb(206,142,214);
+}
+.b1{
+    background-color: rgb(234,215,196);
+}
+.b2{
+    background-color: rgb(185,149,111);
+}
+.b3{
+    background-color: rgb(121,86,48);
+}
+.b4{
+    background-color: rgb(69,43,17);
+}
+.b5{
+    background-color: rgb(92,113,149);
+}
+.color-preview{
+    width: 30px;
+    height: 30px;
+    display: block;
+    background-color: white;
+    margin-right: 7px;
+    border: 2px solid rgb(155, 155, 155);
+}
