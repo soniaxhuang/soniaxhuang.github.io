@@ -1,0 +1,156 @@
+{
+    "iPhone": {
+        "iphone12pro": {
+            "name": "iPhone 12 Pro",
+            "display": "6.1-inch display",
+            "startingPrice": "33,900",
+            "modelImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-family-hero-all?wid=470&amp;hei=556&amp;fmt=jpeg&amp;qlt=95&amp;.v=1604021662000",
+            "finish": [
+                {
+                    "color": "Graphite",
+                    "bubble": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-finish-graphite-2020?wid=102&amp;hei=102&amp;fmt=jpeg&amp;qlt=95&amp;.v=1601054548000",
+                    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-graphite-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021660000"
+                },
+                {
+                    "color": "Silver",
+                    "bubble": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-finish-silver-2020?wid=102&amp;hei=102&amp;fmt=jpeg&amp;qlt=95&amp;.v=1601054548000",
+                    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-silver-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021661000"
+                },
+                {
+                    "color": "Gold",
+                    "bubble": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-finish-gold-2020?wid=102&amp;hei=102&amp;fmt=jpeg&amp;qlt=95&amp;.v=1601054548000",
+                    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-gold-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021659000"
+                },
+                {
+                    "color": "Pacific Blue",
+                    "bubble": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-finish-blue-2020?wid=102&amp;hei=102&amp;fmt=jpeg&amp;qlt=95&amp;.v=1601054547000",
+                    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-blue-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021661000"
+                }
+            ],
+            "capacity": [
+                {
+                    "size": "128GB",
+                    "price": "33,900"
+                },
+                {
+                    "size": "256GB",
+                    "price": "37,400"
+                },
+                {
+                    "size": "512GB",
+                    "price": "44,400"
+                }
+            ]
+        },
+        "iphone12promax": {
+            "name": "iPhone 12 Pro Max",
+            "display": "6.7-inch display",
+            "startingPrice": "37,900",
+            "modelImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-max-family-hero-all?wid=470&amp;hei=556&amp;fmt=jpeg&amp;qlt=95&amp;.v=1604021663000",
+            "finish": [
+                {
+                    "color": "Graphite",
+                    "bubble": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-finish-graphite-2020?wid=102&amp;hei=102&amp;fmt=jpeg&amp;qlt=95&amp;.v=1601054548000",
+                    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-max-graphite-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021658000"
+                },
+                {
+                    "color": "Silver",
+                    "bubble": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-finish-silver-2020?wid=102&amp;hei=102&amp;fmt=jpeg&amp;qlt=95&amp;.v=1601054548000",
+                    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-max-silver-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021658000"
+                },
+                {
+                    "color": "Gold",
+                    "bubble": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-finish-gold-2020?wid=102&amp;hei=102&amp;fmt=jpeg&amp;qlt=95&amp;.v=1601054548000",
+                    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-max-gold-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021660000"
+                },
+                {
+                    "color": "Pacific Blue",
+                    "bubble": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-finish-blue-2020?wid=102&amp;hei=102&amp;fmt=jpeg&amp;qlt=95&amp;.v=1601054547000",
+                    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-max-blue-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021658000"
+                }
+            ],
+            "capacity": [
+                {
+                    "size": "128GB",
+                    "price": "37,900"
+                },
+                {
+                    "size": "256GB",
+                    "price": "41,400"
+                },
+                {
+                    "size": "512GB",
+                    "price": "48,400"
+                }
+            ]
+        }
+    },
+    "iPad": {
+        "ipadpro11": {
+            "name": "11 吋顯示器",
+            "display": "Liquid Retina 顯示器",
+            "startingPrice": "24,900",
+            "modelImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-12-11-select-202104_GEO_TW?wid=545&hei=550&fmt=jpeg&qlt=95&.v=1617864731000",
+            "finish": [
+                {
+                    "color": "Space Gray",
+                    "bubble": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/finish-space-gray-201508?wid=64&amp;hei=64&amp;fmt=png-alpha&amp;.v=0",
+                    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-11-select-cell-spacegray-202104?wid=470&hei=556&fmt=p-jpg&qlt=95&.v=1617124703000"
+                },
+                {
+                    "color": "Silver",
+                    "bubble": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/finish-silver-201508?wid=64&amp;hei=64&amp;fmt=png-alpha&amp;.v=0",
+                    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-cell-silver-202104_GEO_TW?wid=470&hei=556&fmt=p-jpg&qlt=95&.v=1617912663000"
+                }
+            ],
+            "capacity": [
+                {
+                    "size": "128GB",
+                    "price": "24,900"
+                },
+                {
+                    "size": "256GB",
+                    "price": "28,000"
+                },
+                {
+                    "size": "512GB",
+                    "price": "34,200"
+                }
+            ]
+
+        },
+        "ipadpro12": {
+            "name": "12.9 吋顯示器",
+            "display": "Liquid Retina XDR 顯示器",
+            "startingPrice": "34,900",
+            "modelImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-12-select-202104_GEO_TW?wid=970&amp;hei=1020&amp;fmt=png-alpha&amp;.v=1617903458000",
+            "finish": [
+                {
+                    "color": "Space Gray",
+                    "bubble": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/finish-space-gray-201508?wid=64&amp;hei=64&amp;fmt=png-alpha&amp;.v=0",
+                    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-12-select-cell-spacegray-202104_GEO_TW?wid=470&hei=556&fmt=p-jpg&qlt=95&.v=1617920534000"
+                },
+                {
+                    "color": "Silver",
+                    "bubble": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/finish-silver-201508?wid=64&amp;hei=64&amp;fmt=png-alpha&amp;.v=0",
+                    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-12-select-cell-silver-202104_GEO_TW?wid=470&hei=556&fmt=p-jpg&qlt=95&.v=1617919669000"
+                }
+            ],
+            "capacity": [
+                {
+                    "size": "128GB",
+                    "price": "34,900"
+                },
+                {
+                    "size": "256GB",
+                    "price": "38,000"
+                },
+                {
+                    "size": "512GB",
+                    "price": "44,200"
+                }
+            ]
+        }
+
+    }
+}
